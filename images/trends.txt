@@ -1,0 +1,5 @@
+As expected when you approach the equator, the average temperature increases.
+
+The temperatures in the northern hemisphere are cooler than in the southern hemisphere at equal distances from the equator.
+
+Humidity also appears to be lower in the northern hemisphere at equal distances from the equator than the southern hemisphere.
